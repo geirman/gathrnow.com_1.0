@@ -1,0 +1,12 @@
+:root {
+    --gn-mandy: #f05356;
+    --gn-carrot: #f99b1c;
+}
+
+.navbar,
+footer {
+    background-color: var(--gn-mandy);
+}
+footer div p#version {
+    color: var(--gn-mandy);
+}
