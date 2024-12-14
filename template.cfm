@@ -55,8 +55,8 @@
         <footer class="py-5">
             <div class="container px-4 px-lg-5">
                 <p class="m-0 text-center text-white">
-                    Phone: <a href="tel:8885551212" class="text-decoration-none">888-555-1212</a> | 
-                    Email: <a href="mailto:join@gathrnow.com" class="text-decoration-none">join@gathrnow.com</a>
+                    Phone: <a href="tel:8885551212" class="text-decoration-none rounded-pill text-white px-2 py-1">888-555-1212</a> | 
+                    Email: <a href="mailto:join@gathrnow.com" class="text-decoration-none rounded-pill text-white px-2 py-1">join@gathrnow.com</a>
                 </p>                
                 <p class="m-0 text-center text-white">
                     Copyright &copy; #DateFormat(now(), 'YYYY')#, GathrNow&trade; LLC, All Rights Reserved

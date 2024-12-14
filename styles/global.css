@@ -10,3 +10,20 @@ footer {
 footer div p#version {
     color: var(--gn-mandy);
 }
+footer div p a:hover {
+    /* text-decoration: underline !important;  */
+    background-color: white;
+    color: var(--gn-mandy) !important;
+}
+
+.navbar-nav .nav-item a.btn {
+    background-color: white;
+    color: var(--gn-mandy);
+    font-weight: 700;
+    border: 2px solid white;
+}
+.navbar-nav .nav-item a.btn:hover {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
